@@ -1,0 +1,27 @@
+what is version control...
+
+When you are wroking on a simple project , such as a single page html, it is fairly easy to remember the last thing you changed 
+and where the development is headed. but tracking revisions over time, also referred to as version control, quickly 
+becomes more complex when you are working on a large project with multiple files and multiple developers.
+
+you not only want to record  changes, but also who made the changes, and when. managing revisions at this level requires
+a version  control system.
+
+Version Control System help a software team manage changes to source code over time.
+VCS software includes tools for saving the state of a project, viewing the history of changes, and reverting changes.
+
+Developing software without using version control is risky.
+similar to not have backups.
+
+VCS can also enhance and speed u development . depending on the version control software used, many developers can work
+on the same code at the same time...
+
+
+
+for example:: one developer on the team may be working on a new feature while another developer fixes and unrelated
+bug, each developer making their changes in several parts of the code base.
+
+VCS even have tools to prevent conflicts when one developer's changes are incompatible with changes made at the same time
+by another developer...
+
+One of the most popular version control Systems is Git....

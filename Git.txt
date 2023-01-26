@@ -1,0 +1,16 @@
+Git
+
+--one of the most popular version control systems is a Git, a distributed VCS.
+  Git is a mature , actively maintained , open source project compatible with many operating systems
+   and IDEs.
+  Git is different from other version control systems by its way of recording changes.Others 
+   systems add changes to a database, where Git records changes as a stream of snapshots.
+
+Git has another advantages--
+ it is distributed , rather than having only one single place for the full version histroy of a project, 
+  developer's working copy of the code is also a repository that can contain the full history of all changes.
+
+
+History::
+Git was created by Linus Torvalds in 2005 for development of linux kernel, with other kernel developers
+contributing to its initial development.
